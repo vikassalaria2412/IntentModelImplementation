@@ -1,0 +1,9 @@
+text,intent
+I want to check the status of her provider relief funds,CheckStatus
+help with medical bills due to covid,CallForAssistance
+I am unable to log into my account to make changes,MakeChanges
+I'd like to speak with someone regarding provider relief phase 4,SpeakWithSomeone
+my account is locked and I cannot access it,AccessAccount
+I would like to add a new user,AddUser
+I was unable to log into the EHB,LogIntoEHB
+Can I get a password reset,ResetPassword

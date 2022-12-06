@@ -1,0 +1,1836 @@
+[
+    {
+        "User needed help creating an account": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "CreateAccount",
+                            "score": 0.7366121411323547
+                        },
+                        {
+                            "class": "CreateEHBAccount",
+                            "score": 0.056484878063201904
+                        },
+                        {
+                            "class": "AccessAccount",
+                            "score": 0.021102936938405037
+                        },
+                        {
+                            "class": "SubmitPriorApprovalRequest",
+                            "score": 0.016780104488134384
+                        },
+                        {
+                            "class": "FileComplaint",
+                            "score": 0.013472743332386017
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "FileComplaint": [
+                            {
+                                "index": 5,
+                                "word": "account",
+                                "score": 0.00369
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.00339
+                            },
+                            {
+                                "index": 4,
+                                "word": "an",
+                                "score": 0.00287
+                            },
+                            {
+                                "index": 3,
+                                "word": "creating",
+                                "score": 0.00154
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": -0.00247
+                            },
+                            {
+                                "index": 2,
+                                "word": "help",
+                                "score": -0.00325
+                            }
+                        ],
+                        "SubmitPriorApprovalRequest": [
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": 0.00855
+                            },
+                            {
+                                "index": 4,
+                                "word": "an",
+                                "score": 0.00469
+                            },
+                            {
+                                "index": 5,
+                                "word": "account",
+                                "score": 0.00013
+                            },
+                            {
+                                "index": 2,
+                                "word": "help",
+                                "score": -0.00192
+                            },
+                            {
+                                "index": 3,
+                                "word": "creating",
+                                "score": -0.00322
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.00786
+                            }
+                        ],
+                        "AccessAccount": [
+                            {
+                                "index": 5,
+                                "word": "account",
+                                "score": 0.04489
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": 0.01726
+                            },
+                            {
+                                "index": 2,
+                                "word": "help",
+                                "score": 0.01267
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.00543
+                            },
+                            {
+                                "index": 4,
+                                "word": "an",
+                                "score": -0.0195
+                            },
+                            {
+                                "index": 3,
+                                "word": "creating",
+                                "score": -0.0491
+                            }
+                        ],
+                        "CreateEHBAccount": [
+                            {
+                                "index": 5,
+                                "word": "account",
+                                "score": 0.04509
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.04019
+                            },
+                            {
+                                "index": 3,
+                                "word": "creating",
+                                "score": 0.02177
+                            },
+                            {
+                                "index": 4,
+                                "word": "an",
+                                "score": 0.00262
+                            },
+                            {
+                                "index": 2,
+                                "word": "help",
+                                "score": -0.01495
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": -0.03032
+                            }
+                        ],
+                        "CreateAccount": [
+                            {
+                                "index": 3,
+                                "word": "creating",
+                                "score": 0.31872
+                            },
+                            {
+                                "index": 4,
+                                "word": "an",
+                                "score": 0.28252
+                            },
+                            {
+                                "index": 5,
+                                "word": "account",
+                                "score": 0.21735
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": 0.10339
+                            },
+                            {
+                                "index": 2,
+                                "word": "help",
+                                "score": 0.05283
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.09416
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        },
+        "User calling needing assistance with their RSR report, user stated they need assistance with errors they see.": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "RemoveUser",
+                            "score": 0.2666485905647278
+                        },
+                        {
+                            "class": "RegisterAsPD",
+                            "score": 0.1589585840702057
+                        },
+                        {
+                            "class": "GetUpdate",
+                            "score": 0.09012075513601303
+                        },
+                        {
+                            "class": "CallForInformation",
+                            "score": 0.04947218671441078
+                        },
+                        {
+                            "class": "FileComplaint",
+                            "score": 0.03477659448981285
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "FileComplaint": [
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": 0.01399
+                            },
+                            {
+                                "index": 10,
+                                "word": "they",
+                                "score": 0.01185
+                            },
+                            {
+                                "index": 9,
+                                "word": "stated",
+                                "score": 0.01106
+                            },
+                            {
+                                "index": 12,
+                                "word": "errors",
+                                "score": 0.00799
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.00507
+                            },
+                            {
+                                "index": 8,
+                                "word": "user",
+                                "score": 0.00503
+                            },
+                            {
+                                "index": 5,
+                                "word": "their",
+                                "score": 0.00283
+                            },
+                            {
+                                "index": 2,
+                                "word": "needing",
+                                "score": -0.0045
+                            },
+                            {
+                                "index": 11,
+                                "word": "need",
+                                "score": -0.00659
+                            },
+                            {
+                                "index": 3,
+                                "word": "assistance",
+                                "score": -0.02356
+                            }
+                        ],
+                        "CallForInformation": [
+                            {
+                                "index": 3,
+                                "word": "assistance",
+                                "score": 0.04084
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": 0.03262
+                            },
+                            {
+                                "index": 9,
+                                "word": "stated",
+                                "score": 0.00958
+                            },
+                            {
+                                "index": 13,
+                                "word": "see",
+                                "score": 0.00722
+                            },
+                            {
+                                "index": 12,
+                                "word": "errors",
+                                "score": 0.00717
+                            },
+                            {
+                                "index": 1,
+                                "word": "calling",
+                                "score": 0.00682
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.00815
+                            },
+                            {
+                                "index": 2,
+                                "word": "needing",
+                                "score": -0.012
+                            },
+                            {
+                                "index": 8,
+                                "word": "user",
+                                "score": -0.02161
+                            },
+                            {
+                                "index": 10,
+                                "word": "they",
+                                "score": -0.05173
+                            }
+                        ],
+                        "GetUpdate": [
+                            {
+                                "index": 12,
+                                "word": "errors",
+                                "score": 0.03595
+                            },
+                            {
+                                "index": 9,
+                                "word": "stated",
+                                "score": 0.03033
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": 0.02885
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": 0.02698
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.01577
+                            },
+                            {
+                                "index": 13,
+                                "word": "see",
+                                "score": 0.01199
+                            },
+                            {
+                                "index": 1,
+                                "word": "calling",
+                                "score": -0.01355
+                            },
+                            {
+                                "index": 2,
+                                "word": "needing",
+                                "score": -0.01756
+                            },
+                            {
+                                "index": 11,
+                                "word": "need",
+                                "score": -0.02008
+                            },
+                            {
+                                "index": 10,
+                                "word": "they",
+                                "score": -0.04791
+                            }
+                        ],
+                        "RegisterAsPD": [
+                            {
+                                "index": 3,
+                                "word": "assistance",
+                                "score": 0.08807
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": 0.02198
+                            },
+                            {
+                                "index": 10,
+                                "word": "they",
+                                "score": 0.01113
+                            },
+                            {
+                                "index": 11,
+                                "word": "need",
+                                "score": 0.01091
+                            },
+                            {
+                                "index": 2,
+                                "word": "needing",
+                                "score": 0.01033
+                            },
+                            {
+                                "index": 5,
+                                "word": "their",
+                                "score": 0.00676
+                            },
+                            {
+                                "index": 4,
+                                "word": "with",
+                                "score": -0.01114
+                            },
+                            {
+                                "index": 12,
+                                "word": "errors",
+                                "score": -0.01681
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": -0.02114
+                            },
+                            {
+                                "index": 9,
+                                "word": "stated",
+                                "score": -0.06482
+                            }
+                        ],
+                        "RemoveUser": [
+                            {
+                                "index": 8,
+                                "word": "user",
+                                "score": 0.07362
+                            },
+                            {
+                                "index": 10,
+                                "word": "they",
+                                "score": 0.07313
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.06519
+                            },
+                            {
+                                "index": 2,
+                                "word": "needing",
+                                "score": 0.04464
+                            },
+                            {
+                                "index": 1,
+                                "word": "calling",
+                                "score": 0.03237
+                            },
+                            {
+                                "index": 3,
+                                "word": "assistance",
+                                "score": 0.02543
+                            },
+                            {
+                                "index": 13,
+                                "word": "see",
+                                "score": -0.01868
+                            },
+                            {
+                                "index": 4,
+                                "word": "with",
+                                "score": -0.02021
+                            },
+                            {
+                                "index": 12,
+                                "word": "errors",
+                                "score": -0.02736
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": -0.06114
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        }
+    },
+    {
+        "Amy called in needed assistance with registering for a grant as pd": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "ApplyForGrant",
+                            "score": 0.46003058552742004
+                        },
+                        {
+                            "class": "RegisterGrant",
+                            "score": 0.2344183325767517
+                        },
+                        {
+                            "class": "AddGrant",
+                            "score": 0.050375036895275116
+                        },
+                        {
+                            "class": "RegisterAsPD",
+                            "score": 0.03516969084739685
+                        },
+                        {
+                            "class": "RemoveUser",
+                            "score": 0.02000224031507969
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "RemoveUser": [
+                            {
+                                "index": 11,
+                                "word": "pd",
+                                "score": 0.01583
+                            },
+                            {
+                                "index": 10,
+                                "word": "as",
+                                "score": 0.00748
+                            },
+                            {
+                                "index": 2,
+                                "word": "in",
+                                "score": -0.00432
+                            },
+                            {
+                                "index": 1,
+                                "word": "called",
+                                "score": -0.00497
+                            },
+                            {
+                                "index": 5,
+                                "word": "with",
+                                "score": -0.007
+                            },
+                            {
+                                "index": 0,
+                                "word": "Amy",
+                                "score": -0.00758
+                            },
+                            {
+                                "index": 8,
+                                "word": "a",
+                                "score": -0.01494
+                            },
+                            {
+                                "index": 7,
+                                "word": "for",
+                                "score": -0.01609
+                            },
+                            {
+                                "index": 4,
+                                "word": "assistance",
+                                "score": -0.01623
+                            },
+                            {
+                                "index": 9,
+                                "word": "grant",
+                                "score": -0.02823
+                            }
+                        ],
+                        "RegisterAsPD": [
+                            {
+                                "index": 10,
+                                "word": "as",
+                                "score": 0.05703
+                            },
+                            {
+                                "index": 6,
+                                "word": "registering",
+                                "score": 0.05237
+                            },
+                            {
+                                "index": 4,
+                                "word": "assistance",
+                                "score": 0.04061
+                            },
+                            {
+                                "index": 11,
+                                "word": "pd",
+                                "score": 0.03273
+                            },
+                            {
+                                "index": 2,
+                                "word": "in",
+                                "score": -0.00483
+                            },
+                            {
+                                "index": 1,
+                                "word": "called",
+                                "score": -0.0179
+                            },
+                            {
+                                "index": 7,
+                                "word": "for",
+                                "score": -0.0226
+                            },
+                            {
+                                "index": 8,
+                                "word": "a",
+                                "score": -0.07807
+                            },
+                            {
+                                "index": 0,
+                                "word": "Amy",
+                                "score": -0.07972
+                            },
+                            {
+                                "index": 9,
+                                "word": "grant",
+                                "score": -0.10734
+                            }
+                        ],
+                        "AddGrant": [
+                            {
+                                "index": 9,
+                                "word": "grant",
+                                "score": 0.04434
+                            },
+                            {
+                                "index": 8,
+                                "word": "a",
+                                "score": 0.02213
+                            },
+                            {
+                                "index": 6,
+                                "word": "registering",
+                                "score": 0.00812
+                            },
+                            {
+                                "index": 0,
+                                "word": "Amy",
+                                "score": 0.00531
+                            },
+                            {
+                                "index": 3,
+                                "word": "needed",
+                                "score": -0.00161
+                            },
+                            {
+                                "index": 5,
+                                "word": "with",
+                                "score": -0.00414
+                            },
+                            {
+                                "index": 2,
+                                "word": "in",
+                                "score": -0.00424
+                            },
+                            {
+                                "index": 7,
+                                "word": "for",
+                                "score": -0.01031
+                            },
+                            {
+                                "index": 10,
+                                "word": "as",
+                                "score": -0.01435
+                            },
+                            {
+                                "index": 4,
+                                "word": "assistance",
+                                "score": -0.01451
+                            }
+                        ],
+                        "RegisterGrant": [
+                            {
+                                "index": 9,
+                                "word": "grant",
+                                "score": 0.11505
+                            },
+                            {
+                                "index": 8,
+                                "word": "a",
+                                "score": 0.05232
+                            },
+                            {
+                                "index": 6,
+                                "word": "registering",
+                                "score": 0.02505
+                            },
+                            {
+                                "index": 3,
+                                "word": "needed",
+                                "score": 0.02088
+                            },
+                            {
+                                "index": 4,
+                                "word": "assistance",
+                                "score": 0.01585
+                            },
+                            {
+                                "index": 7,
+                                "word": "for",
+                                "score": 0.01552
+                            },
+                            {
+                                "index": 0,
+                                "word": "Amy",
+                                "score": 0.01482
+                            },
+                            {
+                                "index": 11,
+                                "word": "pd",
+                                "score": 0.01124
+                            },
+                            {
+                                "index": 2,
+                                "word": "in",
+                                "score": -0.00812
+                            },
+                            {
+                                "index": 5,
+                                "word": "with",
+                                "score": -0.00933
+                            }
+                        ],
+                        "ApplyForGrant": [
+                            {
+                                "index": 9,
+                                "word": "grant",
+                                "score": 0.2962
+                            },
+                            {
+                                "index": 8,
+                                "word": "a",
+                                "score": 0.19803
+                            },
+                            {
+                                "index": 7,
+                                "word": "for",
+                                "score": 0.05085
+                            },
+                            {
+                                "index": 0,
+                                "word": "Amy",
+                                "score": 0.04974
+                            },
+                            {
+                                "index": 3,
+                                "word": "needed",
+                                "score": 0.01888
+                            },
+                            {
+                                "index": 5,
+                                "word": "with",
+                                "score": 0.00444
+                            },
+                            {
+                                "index": 11,
+                                "word": "pd",
+                                "score": -0.01049
+                            },
+                            {
+                                "index": 1,
+                                "word": "called",
+                                "score": -0.01864
+                            },
+                            {
+                                "index": 4,
+                                "word": "assistance",
+                                "score": -0.01881
+                            },
+                            {
+                                "index": 6,
+                                "word": "registering",
+                                "score": -0.03227
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        },
+        "User needed their session terminated": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "ResetPassword",
+                            "score": 0.19325388967990875
+                        },
+                        {
+                            "class": "RemoveUser",
+                            "score": 0.11178931593894958
+                        },
+                        {
+                            "class": "LogIntoEHB",
+                            "score": 0.08327501267194748
+                        },
+                        {
+                            "class": "RegisterAsPD",
+                            "score": 0.06617264449596405
+                        },
+                        {
+                            "class": "ChangePassword",
+                            "score": 0.06161164492368698
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "ChangePassword": [
+                            {
+                                "index": 3,
+                                "word": "session",
+                                "score": 0.02363
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.01496
+                            },
+                            {
+                                "index": 4,
+                                "word": "terminated",
+                                "score": 0.01284
+                            },
+                            {
+                                "index": 2,
+                                "word": "their",
+                                "score": 0.01247
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": -0.01161
+                            }
+                        ],
+                        "RegisterAsPD": [
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.02227
+                            },
+                            {
+                                "index": 4,
+                                "word": "terminated",
+                                "score": 0.02137
+                            },
+                            {
+                                "index": 2,
+                                "word": "their",
+                                "score": 0.00682
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": -0.00338
+                            },
+                            {
+                                "index": 3,
+                                "word": "session",
+                                "score": -0.02358
+                            }
+                        ],
+                        "LogIntoEHB": [
+                            {
+                                "index": 4,
+                                "word": "terminated",
+                                "score": 0.01901
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": 0.01088
+                            },
+                            {
+                                "index": 3,
+                                "word": "session",
+                                "score": 0.00973
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.00842
+                            },
+                            {
+                                "index": 2,
+                                "word": "their",
+                                "score": -0.00529
+                            }
+                        ],
+                        "RemoveUser": [
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.10577
+                            },
+                            {
+                                "index": 4,
+                                "word": "terminated",
+                                "score": 0.08418
+                            },
+                            {
+                                "index": 2,
+                                "word": "their",
+                                "score": 0.06231
+                            },
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": -0.03599
+                            },
+                            {
+                                "index": 3,
+                                "word": "session",
+                                "score": -0.06308
+                            }
+                        ],
+                        "ResetPassword": [
+                            {
+                                "index": 1,
+                                "word": "needed",
+                                "score": 0.07056
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.06988
+                            },
+                            {
+                                "index": 3,
+                                "word": "session",
+                                "score": 0.0282
+                            },
+                            {
+                                "index": 2,
+                                "word": "their",
+                                "score": 0.00196
+                            },
+                            {
+                                "index": 4,
+                                "word": "terminated",
+                                "score": -0.08874
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        }
+    },
+    {
+        "User calling trying to access the RSR report but not able to see it.": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "AccessGrant",
+                            "score": 0.1842082291841507
+                        },
+                        {
+                            "class": "AccessAccount",
+                            "score": 0.1052069440484047
+                        },
+                        {
+                            "class": "GetAccess",
+                            "score": 0.09963741898536682
+                        },
+                        {
+                            "class": "ReportUnableToLogin",
+                            "score": 0.06523825228214264
+                        },
+                        {
+                            "class": "RemoveUser",
+                            "score": 0.06504981219768524
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "RemoveUser": [
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": 0.05717
+                            },
+                            {
+                                "index": 2,
+                                "word": "trying",
+                                "score": 0.01186
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": 0.0071
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": -0.00691
+                            },
+                            {
+                                "index": 4,
+                                "word": "access",
+                                "score": -0.01092
+                            },
+                            {
+                                "index": 8,
+                                "word": "but",
+                                "score": -0.0138
+                            },
+                            {
+                                "index": 5,
+                                "word": "the",
+                                "score": -0.01852
+                            },
+                            {
+                                "index": 12,
+                                "word": "it",
+                                "score": -0.02062
+                            },
+                            {
+                                "index": 11,
+                                "word": "see",
+                                "score": -0.02155
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": -0.03088
+                            }
+                        ],
+                        "ReportUnableToLogin": [
+                            {
+                                "index": 9,
+                                "word": "not",
+                                "score": 0.02235
+                            },
+                            {
+                                "index": 2,
+                                "word": "trying",
+                                "score": 0.01628
+                            },
+                            {
+                                "index": 10,
+                                "word": "able",
+                                "score": 0.01347
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.01098
+                            },
+                            {
+                                "index": 12,
+                                "word": "it",
+                                "score": 0.00993
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": 0.00467
+                            },
+                            {
+                                "index": 1,
+                                "word": "calling",
+                                "score": -0.00518
+                            },
+                            {
+                                "index": 11,
+                                "word": "see",
+                                "score": -0.01194
+                            },
+                            {
+                                "index": 4,
+                                "word": "access",
+                                "score": -0.0138
+                            },
+                            {
+                                "index": 8,
+                                "word": "but",
+                                "score": -0.01564
+                            }
+                        ],
+                        "GetAccess": [
+                            {
+                                "index": 4,
+                                "word": "access",
+                                "score": 0.07538
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.02897
+                            },
+                            {
+                                "index": 12,
+                                "word": "it",
+                                "score": 0.01366
+                            },
+                            {
+                                "index": 11,
+                                "word": "see",
+                                "score": 0.00845
+                            },
+                            {
+                                "index": 5,
+                                "word": "the",
+                                "score": 0.00811
+                            },
+                            {
+                                "index": 10,
+                                "word": "able",
+                                "score": 0.00697
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": -0.00824
+                            },
+                            {
+                                "index": 9,
+                                "word": "not",
+                                "score": -0.00928
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": -0.01859
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.04072
+                            }
+                        ],
+                        "AccessAccount": [
+                            {
+                                "index": 4,
+                                "word": "access",
+                                "score": 0.07149
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": 0.03004
+                            },
+                            {
+                                "index": 9,
+                                "word": "not",
+                                "score": 0.02071
+                            },
+                            {
+                                "index": 12,
+                                "word": "it",
+                                "score": 0.01406
+                            },
+                            {
+                                "index": 5,
+                                "word": "the",
+                                "score": 0.01082
+                            },
+                            {
+                                "index": 10,
+                                "word": "able",
+                                "score": 0.00839
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.00723
+                            },
+                            {
+                                "index": 1,
+                                "word": "calling",
+                                "score": 0.00452
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.00842
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": -0.03144
+                            }
+                        ],
+                        "AccessGrant": [
+                            {
+                                "index": 4,
+                                "word": "access",
+                                "score": 0.11665
+                            },
+                            {
+                                "index": 5,
+                                "word": "the",
+                                "score": 0.03493
+                            },
+                            {
+                                "index": 12,
+                                "word": "it",
+                                "score": 0.02619
+                            },
+                            {
+                                "index": 11,
+                                "word": "see",
+                                "score": 0.02163
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.02106
+                            },
+                            {
+                                "index": 6,
+                                "word": "RSR",
+                                "score": 0.01683
+                            },
+                            {
+                                "index": 10,
+                                "word": "able",
+                                "score": 0.00791
+                            },
+                            {
+                                "index": 2,
+                                "word": "trying",
+                                "score": -0.02106
+                            },
+                            {
+                                "index": 7,
+                                "word": "report",
+                                "score": -0.02191
+                            },
+                            {
+                                "index": 0,
+                                "word": "User",
+                                "score": -0.02349
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        },
+        "Grantee is unable to log into account using email so he made a backup with another email. \nGrantee was having trouble finding how to find the organization associated with the grant number provided.": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "LogIntoEHB",
+                            "score": 0.18175940215587616
+                        },
+                        {
+                            "class": "AccessAccount",
+                            "score": 0.06901267915964127
+                        },
+                        {
+                            "class": "FindHealthCenter",
+                            "score": 0.06168815493583679
+                        },
+                        {
+                            "class": "AskAboutStatus",
+                            "score": 0.05753147974610329
+                        },
+                        {
+                            "class": "CreateEHBAccount",
+                            "score": 0.055877432227134705
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "CreateEHBAccount": [
+                            {
+                                "index": 8,
+                                "word": "email",
+                                "score": 0.01414
+                            },
+                            {
+                                "index": 23,
+                                "word": "organization",
+                                "score": 0.01406
+                            },
+                            {
+                                "index": 14,
+                                "word": "with",
+                                "score": 0.01235
+                            },
+                            {
+                                "index": 15,
+                                "word": "another",
+                                "score": 0.0103
+                            },
+                            {
+                                "index": 0,
+                                "word": "Grantee",
+                                "score": 0.00894
+                            },
+                            {
+                                "index": 21,
+                                "word": "find",
+                                "score": 0.00834
+                            },
+                            {
+                                "index": 24,
+                                "word": "associated",
+                                "score": 0.00806
+                            },
+                            {
+                                "index": 4,
+                                "word": "log",
+                                "score": -0.00553
+                            },
+                            {
+                                "index": 22,
+                                "word": "the",
+                                "score": -0.01534
+                            },
+                            {
+                                "index": 26,
+                                "word": "number",
+                                "score": -0.01547
+                            }
+                        ],
+                        "AskAboutStatus": [
+                            {
+                                "index": 22,
+                                "word": "the",
+                                "score": 0.01445
+                            },
+                            {
+                                "index": 18,
+                                "word": "trouble",
+                                "score": 0.01237
+                            },
+                            {
+                                "index": 21,
+                                "word": "find",
+                                "score": 0.0123
+                            },
+                            {
+                                "index": 0,
+                                "word": "Grantee",
+                                "score": 0.01022
+                            },
+                            {
+                                "index": 23,
+                                "word": "organization",
+                                "score": 0.0096
+                            },
+                            {
+                                "index": 19,
+                                "word": "finding",
+                                "score": 0.00926
+                            },
+                            {
+                                "index": 24,
+                                "word": "associated",
+                                "score": 0.00747
+                            },
+                            {
+                                "index": 11,
+                                "word": "made",
+                                "score": 0.00598
+                            },
+                            {
+                                "index": 7,
+                                "word": "using",
+                                "score": -0.00771
+                            },
+                            {
+                                "index": 4,
+                                "word": "log",
+                                "score": -0.00828
+                            }
+                        ],
+                        "FindHealthCenter": [
+                            {
+                                "index": 21,
+                                "word": "find",
+                                "score": 0.01429
+                            },
+                            {
+                                "index": 19,
+                                "word": "finding",
+                                "score": 0.01322
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.01173
+                            },
+                            {
+                                "index": 18,
+                                "word": "trouble",
+                                "score": 0.01115
+                            },
+                            {
+                                "index": 8,
+                                "word": "email",
+                                "score": 0.00941
+                            },
+                            {
+                                "index": 2,
+                                "word": "unable",
+                                "score": 0.00854
+                            },
+                            {
+                                "index": 10,
+                                "word": "he",
+                                "score": 0.00673
+                            },
+                            {
+                                "index": 27,
+                                "word": "provided",
+                                "score": -0.00449
+                            },
+                            {
+                                "index": 22,
+                                "word": "the",
+                                "score": -0.00675
+                            },
+                            {
+                                "index": 26,
+                                "word": "number",
+                                "score": -0.0078
+                            }
+                        ],
+                        "AccessAccount": [
+                            {
+                                "index": 8,
+                                "word": "email",
+                                "score": 0.04731
+                            },
+                            {
+                                "index": 6,
+                                "word": "account",
+                                "score": 0.0333
+                            },
+                            {
+                                "index": 2,
+                                "word": "unable",
+                                "score": 0.03082
+                            },
+                            {
+                                "index": 24,
+                                "word": "associated",
+                                "score": 0.01201
+                            },
+                            {
+                                "index": 16,
+                                "word": "was",
+                                "score": 0.00747
+                            },
+                            {
+                                "index": 18,
+                                "word": "trouble",
+                                "score": 0.00712
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": -0.01011
+                            },
+                            {
+                                "index": 4,
+                                "word": "log",
+                                "score": -0.01198
+                            },
+                            {
+                                "index": 20,
+                                "word": "how",
+                                "score": -0.01455
+                            },
+                            {
+                                "index": 21,
+                                "word": "find",
+                                "score": -0.03079
+                            }
+                        ],
+                        "LogIntoEHB": [
+                            {
+                                "index": 4,
+                                "word": "log",
+                                "score": 0.11335
+                            },
+                            {
+                                "index": 5,
+                                "word": "into",
+                                "score": 0.05316
+                            },
+                            {
+                                "index": 3,
+                                "word": "to",
+                                "score": 0.02854
+                            },
+                            {
+                                "index": 7,
+                                "word": "using",
+                                "score": 0.02539
+                            },
+                            {
+                                "index": 6,
+                                "word": "account",
+                                "score": 0.02225
+                            },
+                            {
+                                "index": 21,
+                                "word": "find",
+                                "score": -0.02232
+                            },
+                            {
+                                "index": 22,
+                                "word": "the",
+                                "score": -0.02406
+                            },
+                            {
+                                "index": 16,
+                                "word": "was",
+                                "score": -0.02642
+                            },
+                            {
+                                "index": 10,
+                                "word": "he",
+                                "score": -0.03305
+                            },
+                            {
+                                "index": 23,
+                                "word": "organization",
+                                "score": -0.0613
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        }
+    },
+    {
+        "the user was working on a grant app in grants.gov and requested assistance after submitting a ticket request as well": {
+            "data": {
+                "result": {
+                    "classPredictions": [
+                        {
+                            "class": "ApplyForGrant",
+                            "score": 0.08258451521396637
+                        },
+                        {
+                            "class": "CreateEHBAccount",
+                            "score": 0.07154928892850876
+                        },
+                        {
+                            "class": "CallForInformation",
+                            "score": 0.07150397449731827
+                        },
+                        {
+                            "class": "CallForAssistance",
+                            "score": 0.055686578154563904
+                        },
+                        {
+                            "class": "AccessAccount",
+                            "score": 0.054780520498752594
+                        }
+                    ]
+                },
+                "explanation": {
+                    "wordImportances": {
+                        "AccessAccount": [
+                            {
+                                "index": 13,
+                                "word": "assistance",
+                                "score": 0.01385
+                            },
+                            {
+                                "index": 12,
+                                "word": "requested",
+                                "score": 0.00914
+                            },
+                            {
+                                "index": 6,
+                                "word": "grant",
+                                "score": 0.00864
+                            },
+                            {
+                                "index": 10,
+                                "word": "gov",
+                                "score": 0.00798
+                            },
+                            {
+                                "index": 15,
+                                "word": "submitting",
+                                "score": 0.00441
+                            },
+                            {
+                                "index": 2,
+                                "word": "was",
+                                "score": 0.00376
+                            },
+                            {
+                                "index": 18,
+                                "word": "as",
+                                "score": -0.00269
+                            },
+                            {
+                                "index": 8,
+                                "word": "in",
+                                "score": -0.00504
+                            },
+                            {
+                                "index": 9,
+                                "word": "grants",
+                                "score": -0.00597
+                            },
+                            {
+                                "index": 5,
+                                "word": "a",
+                                "score": -0.0064
+                            }
+                        ],
+                        "CallForAssistance": [
+                            {
+                                "index": 13,
+                                "word": "assistance",
+                                "score": 0.023
+                            },
+                            {
+                                "index": 12,
+                                "word": "requested",
+                                "score": 0.01783
+                            },
+                            {
+                                "index": 3,
+                                "word": "working",
+                                "score": 0.01561
+                            },
+                            {
+                                "index": 7,
+                                "word": "app",
+                                "score": 0.01247
+                            },
+                            {
+                                "index": 15,
+                                "word": "submitting",
+                                "score": 0.01074
+                            },
+                            {
+                                "index": 4,
+                                "word": "on",
+                                "score": 0.00999
+                            },
+                            {
+                                "index": 18,
+                                "word": "as",
+                                "score": -0.01517
+                            },
+                            {
+                                "index": 0,
+                                "word": "the",
+                                "score": -0.01549
+                            },
+                            {
+                                "index": 14,
+                                "word": "after",
+                                "score": -0.01672
+                            },
+                            {
+                                "index": 1,
+                                "word": "user",
+                                "score": -0.03003
+                            }
+                        ],
+                        "CallForInformation": [
+                            {
+                                "index": 10,
+                                "word": "gov",
+                                "score": 0.03884
+                            },
+                            {
+                                "index": 13,
+                                "word": "assistance",
+                                "score": 0.03417
+                            },
+                            {
+                                "index": 12,
+                                "word": "requested",
+                                "score": 0.02717
+                            },
+                            {
+                                "index": 17,
+                                "word": "request",
+                                "score": 0.01577
+                            },
+                            {
+                                "index": 3,
+                                "word": "working",
+                                "score": 0.01502
+                            },
+                            {
+                                "index": 11,
+                                "word": "and",
+                                "score": -0.01537
+                            },
+                            {
+                                "index": 15,
+                                "word": "submitting",
+                                "score": -0.02067
+                            },
+                            {
+                                "index": 18,
+                                "word": "as",
+                                "score": -0.02385
+                            },
+                            {
+                                "index": 5,
+                                "word": "a",
+                                "score": -0.03355
+                            },
+                            {
+                                "index": 1,
+                                "word": "user",
+                                "score": -0.03659
+                            }
+                        ],
+                        "CreateEHBAccount": [
+                            {
+                                "index": 1,
+                                "word": "user",
+                                "score": 0.02247
+                            },
+                            {
+                                "index": 7,
+                                "word": "app",
+                                "score": 0.02181
+                            },
+                            {
+                                "index": 5,
+                                "word": "a",
+                                "score": 0.02157
+                            },
+                            {
+                                "index": 8,
+                                "word": "in",
+                                "score": 0.01164
+                            },
+                            {
+                                "index": 3,
+                                "word": "working",
+                                "score": 0.01157
+                            },
+                            {
+                                "index": 4,
+                                "word": "on",
+                                "score": 0.01021
+                            },
+                            {
+                                "index": 19,
+                                "word": "well",
+                                "score": 0.00933
+                            },
+                            {
+                                "index": 17,
+                                "word": "request",
+                                "score": -0.00861
+                            },
+                            {
+                                "index": 6,
+                                "word": "grant",
+                                "score": -0.0186
+                            },
+                            {
+                                "index": 12,
+                                "word": "requested",
+                                "score": -0.01919
+                            }
+                        ],
+                        "ApplyForGrant": [
+                            {
+                                "index": 6,
+                                "word": "grant",
+                                "score": 0.08129
+                            },
+                            {
+                                "index": 5,
+                                "word": "a",
+                                "score": 0.05876
+                            },
+                            {
+                                "index": 9,
+                                "word": "grants",
+                                "score": 0.03096
+                            },
+                            {
+                                "index": 8,
+                                "word": "in",
+                                "score": 0.0217
+                            },
+                            {
+                                "index": 0,
+                                "word": "the",
+                                "score": -0.01176
+                            },
+                            {
+                                "index": 4,
+                                "word": "on",
+                                "score": -0.01268
+                            },
+                            {
+                                "index": 12,
+                                "word": "requested",
+                                "score": -0.0137
+                            },
+                            {
+                                "index": 17,
+                                "word": "request",
+                                "score": -0.01968
+                            },
+                            {
+                                "index": 10,
+                                "word": "gov",
+                                "score": -0.04351
+                            },
+                            {
+                                "index": 7,
+                                "word": "app",
+                                "score": -0.06286
+                            }
+                        ]
+                    }
+                },
+                "drift": null
+            }
+        }
+    }
+]

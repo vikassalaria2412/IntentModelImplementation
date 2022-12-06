@@ -1,0 +1,617 @@
+text,intent
+I need a password reset needed,ResetPassword
+User needs password reset,ResetPassword
+I would like a password reset,ResetPassword
+Can I get a password reset,ResetPassword
+password reset is needed,ResetPassword
+I need a password reset for covid login,ResetPassword
+unlocked password and password reset needed,ResetPassword
+I'd like to help with a password reset,ResetPassword
+I need their password reset,ResetPassword
+I need my password reset,ResetPassword
+I need his password reset,ResetPassword
+I need her password reset,ResetPassword
+I need to have his password reset,ResetPassword
+Her password needs to be reset,ResetPassword
+Can you please reset my password,ResetPassword
+I am trying to reset my password,ResetPassword
+I need to reset the password,ResetPassword
+I need to help me reset my password,ResetPassword
+Could you please reset my password,ResetPassword
+Caller wanted to reset her password,ResetPassword
+I need assistance with Provider Relief Fund,CallForAssistance
+I need assistance with Star loan repayment program,CallForAssistance
+I need assistance with a pw reset,CallForAssistance
+I need assistance with Vaccine Injury Compensation,CallForAssistance
+I need assistance with a Provider Relief Fund application,CallForAssistance
+I need assistance with the Provider Relief application,CallForAssistance
+I need assistance with change ins scope,CallForAssistance
+I need assistance with Capital Improvement Grant,CallForAssistance
+I need assistance with locating Revised Budget,CallForAssistance
+I need assistance with Nurse Corp Loan Repayment,CallForAssistance
+I need assistance with Provider Relief Fund-Phase 3,CallForAssistance
+I need assistance with National Vaccine Injury Compensation Program,CallForAssistance
+I need assistance with BHW Portal,CallForAssistance
+User calling for assistance with the Provider Relief Fund,CallForAssistance
+User calling for assistance regarding the Provider Relief Fund,CallForAssistance
+I need assistance with changing Project director,CallForAssistance
+I need assistance with a pw reset and update email,CallForAssistance
+help with medical bills due to covid,CallForAssistance
+Grantee needed assistance with locating RSR 2020 Annual Performance Report,CallForAssistance
+I need assistance with registration code for RSR,CallForAssistance
+Can you help check the status,CheckStatus
+I need to check the status of her ticket,CheckStatus
+I would like to check the status of there application,CheckStatus
+I need to check the status of her FTCA  application,CheckStatus
+I want to check the status for ticket 01271676,CheckStatus
+Can I check the status of her phase 4 grant,CheckStatus
+I'd like to check the status of his phase 4 funding,CheckStatus
+I'd like to check the status of an uninsured COVID-19 Claim,CheckStatus
+Can I check the status of there American Rescue Plan Application,CheckStatus
+I want to check the status of her provider relief funds,CheckStatus
+I would like to check the status of their loan repayment Program Application,CheckStatus
+I'd like to check the status of a claim,CheckStatus
+I would like to check the status of a claim for the Provider Relief Fund,CheckStatus
+I would like to check the status of her ticket 01266337,CheckStatus
+User call to check claims status,CheckStatus
+User called to check claims status,CheckStatus
+User calling to check claims status,CheckStatus
+Caller wanted to check claims status,CheckStatus
+I'd like to check the status of this application,CheckStatus
+I would like to check the status of his provider relief fund from cares act,CheckStatus
+Can I speak with someone regarding the data,SpeakWithSomeone
+I need to speak with someone regarding region 10,SpeakWithSomeone
+I'd like to speak with someone regarding student loan options,SpeakWithSomeone
+I need to speak with someone regarding PRF funding,SpeakWithSomeone
+I'd like to speak with someone regarding the LRP,SpeakWithSomeone
+I want to speak with someone from the finance department,SpeakWithSomeone
+I need to speak with someone regarding debt repayment,SpeakWithSomeone
+I'd like to speak with someone regarding the 340B Program,SpeakWithSomeone
+I would like to speak with someone regarding organ transplant,SpeakWithSomeone
+I need to speak with someone regarding covid related claims,SpeakWithSomeone
+I need to speak with someone from the provider relief helpline,SpeakWithSomeone
+I need to speak with someone regarding covid uninsured claims,SpeakWithSomeone
+I'd like to speak with someone regarding provider relief phase 4,SpeakWithSomeone
+I would like to speak with someone regarding the Nurse loan forgiveness program,SpeakWithSomeone
+I would like to speak with someone regarding provider support,SpeakWithSomeone
+I would like to speak with someone regarding the loan repayment portal,SpeakWithSomeone
+I'd like to speak with someone in reference to competitive billing,SpeakWithSomeone
+I want to speak with someone regarding the FTCA,SpeakWithSomeone
+Can I speak with someone about the requirements regarding rural,SpeakWithSomeone
+I need to speak with someone regarding hospital designation,SpeakWithSomeone
+I need assistance with registering as PD,RegisterAsPD
+User calling needing assistance with registering as PD for this grant,RegisterAsPD
+I need to help registering as PD,RegisterAsPD
+I need assistance with registering as PD for 3 grants,RegisterAsPD
+PD needed assistance with registering as PD for 2 grrantse4chp39883,RegisterAsPD
+PD needed assistance with registering as PD for 2 grants,RegisterAsPD
+ X10MC33583,RegisterAsPD
+I need assistance registering as PD for grant P06HA39524,RegisterAsPD
+I need assistance with registering as the PD and providing privileges users with privileges,RegisterAsPD
+how to register as the PD,RegisterAsPD
+PD needed assistance with registering as PD and creating a new account,RegisterAsPD
+PD needed assistance with registering as PD and updating name on profile to match NOA,RegisterAsPD
+I want to register to their grant as PD,RegisterAsPD
+Can I find their CRS-EIN number to register as PD,RegisterAsPD
+Please extend the deadline,"ExtendDeadline	"
+I want to extend the deadline for their RFI report,"ExtendDeadline	"
+I'd like to extend the deadline on the following FFR to 4/30/2022,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 4/30/2022:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 4/29/2022:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 8/13/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 8/12/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 8/29/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 7/30/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 2/21/2022:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 2/15/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 12/31/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 11/30/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 4/30/2022: Document Number,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFRs to 8/12/2021:,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 8/13/2021: 18H33MC07874 FFR00105266/1,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 5/16/2022: Document Number: 20X7CHA36863C3,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 5/7/2021: FFR00096849/1: 18X10MC32177,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 1/30/2022: 16H25MC12970  FFR00114088/1,"ExtendDeadline	"
+Please have DMI extend the deadline on the following FFR to 10/30/2021: FFR00105694/1; 16C8DCS29687,"ExtendDeadline	"
+I need their session terminated,ReportSessionTerminated
+user needed their session terminated,ReportSessionTerminated
+they need their session terminated,ReportSessionTerminated
+how they can update the dates,GiveAccess
+They wanted to know how they can update their contact,GiveAccess
+how they can get an n95 mask,GiveAccess
+I'd like to get the SF-428 Form,GiveAccess
+how they can get ryan white support,GiveAccess
+how they can get 100% accurate data,GiveAccess
+Can I get provider data for certain FQHC's,GiveAccess
+how to delete a contract in the EHB,GiveAccess
+I'd like to get CDR access for this grant,GiveAccess
+how they can give access to another user,GiveAccess
+Can I update information for their organization,GiveAccess
+how to delete one of their tasks,GiveAccess
+how they create a contract between  pace and FQHC,GiveAccess
+how they can access the C8E grant application,GiveAccess
+how they give someone access to a grant,GiveAccess
+I would like to change the organizational info,GiveAccess
+Can I get reimbursed for a patient who visited previously,GiveAccess
+how they can submit a new budget,GiveAccess
+order covid testing kits to their house,GiveAccess
+how they will apply for this funding opportunity,GiveAccess
+wants to request extension,RequestExtension
+We need to request an extension,RequestExtension
+she is trying to request an extension,RequestExtension
+He would like to request an extension,RequestExtension
+I would like to pLEASE ALLOW US TO REQUEST AN EXTENSION,RequestExtension
+User called needing assistance on how to request a extension,RequestExtension
+I want to request an extension for an NOA condition,RequestExtension
+I want to request an extension for the report,RequestExtension
+I'd like to request an extension for FFR,RequestExtension
+I would like to request an extension of two weeks,RequestExtension
+I would like to request an extension for 00309118,RequestExtension
+I would like to request an extension for their report 00288661,RequestExtension
+She also isn't sure how to request an extension,RequestExtension
+I would like to request an extension for their budget,RequestExtension
+I need to request an extension for my application,RequestExtension
+I need to request an extension on my grant,RequestExtension
+I want to request an extension on a submission,RequestExtension
+I need to request an extension for their performance report,RequestExtension
+I'd like to request an extension in EHB,RequestExtension
+I need to request an extension for their project implementation submission,RequestExtension
+have their EHB account enabled,ReportEHBAccountUnlocked
+have their EHB account unlocked,ReportEHBAccountUnlocked
+Can I get their EHB account unlocked,ReportEHBAccountUnlocked
+I need their EHB account unlocked,ReportEHBAccountUnlocked
+have their EHB account enabled and password reset,ReportEHBAccountUnlocked
+I need their EHB account unlocked and a password reset performed as well,ReportEHBAccountUnlocked
+She stated she would like to file a complaint,FileComplaint
+how they can file a complaint,FileComplaint
+Caller wanted to file a complaint against FQHC,FileComplaint
+how to file a complaint on a FQHC,FileComplaint
+I would like to file a complaint about a health center,FileComplaint
+I want to file a complaint on a healthcare center,FileComplaint
+Can I file a complaint on a Health Organization,FileComplaint
+how to file a complaint for the RW program,FileComplaint
+I need to file a complaint against a Federally Qualified Health Center,FileComplaint
+Received call from Halford wanted to file an complaint on  Nurse Loan repayment applicant,FileComplaint
+Can I make a complaint for a FQHC,FileComplaint
+she wanted to file a complaint against a clinic Cl Bromback on 45th st,FileComplaint
+User needed to file a complaint and needed help finding affordable healthcare,FileComplaint
+Can I make a complaint on a facility,FileComplaint
+She wants to file a complaint against the facility for refusing her to be present,FileComplaint
+Can I make an complaint regarding the Ryan White Foundation,FileComplaint
+Caller needed assistance with filing a complaint towards a health center,FileComplaint
+Caller needed assistance with filing a complaint against a funded HRSA center,FileComplaint
+I need help with filing a complaint about a medical center,FileComplaint
+how a FQHC is using their funds,FileComplaint
+I need to add a grant to their portfolio,AddGrant
+I need help adding a grant to portfolio,AddGrant
+Can I add a grant to her portfolio,AddGrant
+Can I add a grant to her portfolio that is missing,AddGrant
+Can I add a grant to their portfolio as the Project Director,AddGrant
+I am having trouble adding a grant,AddGrant
+I'd like to add a grant to portfolio for new user,AddGrant
+having hard time adding a grant to portfolio,AddGrant
+Can I add a grant to his portfolio,AddGrant
+I need to add a grant to their portfolio and requesting a deadline extension,AddGrant
+I want to add a grant to their portfolio and registering to an organization,AddGrant
+I'd like to add a grant to portfolio  as PD,AddGrant
+I would like to add a grant to my portfolio,AddGrant
+User wants to add a grant,AddGrant
+I need a Grant added to her EHB,AddGrant
+I would like to make changes to CLC report,MakeChanges
+I need to make changes to covid survey that has been submitted,MakeChanges
+I'd like to make changes to their NCC report,MakeChanges
+I'd like to make changes to three due dates in EHB for P16,MakeChanges
+I would like to make changes to their Progress report,MakeChanges
+I want to make changes to an extension request that was submitted,MakeChanges
+Can I change to SF428 form,MakeChanges
+I am unable to log into my account to make changes,MakeChanges
+I want to make changes to Final Performance/Closeout Report and it's late,MakeChanges
+I'd like to make changes to Form 5a and scope modification,MakeChanges
+how to make changes and submit it to HRSA,MakeChanges
+I need to make changes to a report she submitted today,MakeChanges
+I want to make changes to their sites,MakeChanges
+I want to make revisions to the application,MakeChanges
+I need assistance with report that has been administratively closed and needed to make changes,MakeChanges
+I'd like to make changes to a submission name,MakeChanges
+caller wanted to know about the loan repayment program,AskAboutLoanRepaymentProgram
+I want to know about the loan repayment program,AskAboutLoanRepaymentProgram
+User calling for assistance with the Loan Repayment Program,AskAboutLoanRepaymentProgram
+I would like to find out about the loan repayment program,AskAboutLoanRepaymentProgram
+I need assistance with the loan repayment Program,AskAboutLoanRepaymentProgram
+"Caller called to inquire about Loan Repayment Program, which they are interested in",AskAboutLoanRepaymentProgram
+information about the loan repayment program,AskAboutLoanRepaymentProgram
+User calling for assistance with the Loan Repayment Program application,AskAboutLoanRepaymentProgram
+we would like us to unlock the account,UnlockAccount
+Unlock account and reset needed,UnlockAccount
+I'd like to get the account locked and want to unlock account,UnlockAccount
+May need you to unlock my account to EHB,UnlockAccount
+I need assistance with unlocking account,UnlockAccount
+Unlock account and reset password,UnlockAccount
+Caller needed assistance with unlocking account and reset password,UnlockAccount
+Caller needed assistance with unlocking account and resetting password,UnlockAccount
+Grantee needed assistance with unlocking account and password reset,UnlockAccount
+I need it unlocked,UnlockAccount
+User requested for account to be unlocked,UnlockAccount
+trying to log into EHB,LogIntoEHB
+Cannot log into EHB,LogIntoEHB
+Grantee cannot log into EHB,LogIntoEHB
+can't log into the EHB,LogIntoEHB
+I cannot log into EHB,LogIntoEHB
+trying to log into EHB and need a password reset,LogIntoEHB
+I am unable to log into the EHB,LogIntoEHB
+I was unable to log into the EHB,LogIntoEHB
+User is unable to log into the EHB,LogIntoEHB
+trying to log into the EHB for the first time,LogIntoEHB
+Cannot log into the EHB with her current password,LogIntoEHB
+User called stating their EHB account was disabled and they needed to log into EHB,LogIntoEHB
+trying to log into the EHB but the account is disabled,LogIntoEHB
+trying to log into EHB and needing a password reset,LogIntoEHB
+trying to log into the EHB is expiring,LogIntoEHB
+can my account be unlocked to log into EHB,LogIntoEHB
+Grantee password is not being recognized when they attempt to log into the EHB,LogIntoEHB
+I need help logging into the EHB,LogIntoEHB
+I cannot log into EHB and my security answer is wrong,LogIntoEHB
+Caller was unable to log into the EHB due to an disabled account,LogIntoEHB
+I want to find a health center,FindHealthCenter
+I want to find a health center for HIV,FindHealthCenter
+I need to find a health center in their area,FindHealthCenter
+I want to find a health center in Tenessee,FindHealthCenter
+where can they find a health center,FindHealthCenter
+I need to find a health center that offered chiropractic services,FindHealthCenter
+I want to find a health center that assists individuals without insurance,FindHealthCenter
+I would like to find a health center that provides affordable healthcare,FindHealthCenter
+trying to find a health center in New Mexico,FindHealthCenter
+where to find a health center in IOWA,FindHealthCenter
+I want to add a health center to hrsa find a health center,FindHealthCenter
+She will like to locate a Health Center nearby,FindHealthCenter
+I need to find a health center that offered mammograms for low income individuals,FindHealthCenter
+looking for a Health Center nearby,FindHealthCenter
+I need to find a health center in 30273 to get tested for COVID-19,FindHealthCenter
+Caller in zip code 37601 is trying to locate a Health Center,FindHealthCenter
+I need assistance with a phone number for Find a Health Center,FindHealthCenter
+Caller wanted assistance with locating a health center,FindHealthCenter
+could not find a health center within 250 miles using the online search portal,FindHealthCenter
+looking for a health center that can assist with high blood pressure,FindHealthCenter
+I am trying to create an account,CreateAccount
+I need to create an account,CreateAccount
+can you help me to create an account,CreateAccount
+I am trying to create an account for myself in,CreateAccount
+I need to help creating an account,CreateAccount
+I need assistance with creating an account,CreateAccount
+I want to create an account in the Electronic Handbooks,CreateAccount
+Caller would like to create an account now,CreateAccount
+I am unable to find where I can create an account,CreateAccount
+how to create an account,CreateAccount
+I need to create an account for the electronic handbook,CreateAccount
+Can I create an account in the HRSA electronic handbooks center,CreateAccount
+I would like to create an account related to a new grant award,CreateAccount
+I want to find the NOA to create an account,CreateAccount
+I need to create an account in the EHB,CreateAccount
+I am having trouble creating an account and logging in,CreateAccount
+I would like to create an account for Andrea McMullin,CreateAccount
+I want to create an account as a service provider,CreateAccount
+we are having trouble creating an account,CreateAccount
+she is the Administrator for Johnson County Health and would like to create an account,CreateAccount
+I would like to apply for a grant,ApplyForGrant
+trying to log in to apply for a grant,ApplyForGrant
+Can I apply for a grant for his teeth,ApplyForGrant
+I want to apply for a grant that he wants to apply for,ApplyForGrant
+I want to apply for a grant to cover my expenses,ApplyForGrant
+what were the FQHC Requirements for applying for a grant,ApplyForGrant
+I need to apply for a grant for single mothers,ApplyForGrant
+how can I obtain a grant,ApplyForGrant
+thy needed information on the FQHC Requirements for a grant they want to apply for,ApplyForGrant
+trying to get access to a grant,ApplyForGrant
+can I still qualify for a grant,ApplyForGrant
+where can they find a grant,ApplyForGrant
+I am having trouble adding a grant,ApplyForGrant
+I'd like to find a grant related to critical childcare issues,ApplyForGrant
+trying to get access to a grant as a consultant,ApplyForGrant
+I need to obtain a grant for housing for Ryan white,ApplyForGrant
+couldn't locate grant in portfolio,ApplyForGrant
+Grantee is the PD and she cannot locate a grant,ApplyForGrant
+I want to get a grant application into the EHB,ApplyForGrant
+I need to find a grant to complete the provider report,ApplyForGrant
+Caller had questions about the provider relief fund,CallForInformation
+information regarding the Provider Relief Fund,CallForInformation
+information on the Provider Relief Fund,CallForInformation
+Caller wants to inquire about the Provider Relief Fund,CallForInformation
+Caller wanted to inquire about the Provider Relief Fund,CallForInformation
+caller wanted to know about the provider relief fund,CallForInformation
+User calling for info regarding the Provider Relief Fund,CallForInformation
+I need assistance with provider relief fund,CallForInformation
+User is calling regarding the Provider Relief Fund,CallForInformation
+User calling for assistance with the Provider Relief Fund/Phase 4,CallForInformation
+the Provider Relief Fund is still being disbursed,CallForInformation
+User calling regarding the Provider Relief Fund and them receiving 2 payments,CallForInformation
+User calling regarding Provider Relief Fund and funding that they received,CallForInformation
+User calling for assistance with the Provider Relief Fund/Reporting,CallForInformation
+I need assistance with provider relief fund-phase 4,CallForInformation
+caller stated that she is calling for provider relief funding,CallForInformation
+Caller has questions about the Provider Relief Fund for Phase 4 regarding application status,CallForInformation
+User called needing info on the Provider Relief Fund,CallForInformation
+request assistance for provider relief fund assistance,CallForInformation
+Caller is running into issues completing the Provider Relief Fund application,CallForInformation
+I would like to know the status for the Phase 4 provider relief,AskAboutStatus
+I want to know the status the of their Provider Relief Application,AskAboutStatus
+I would like to know the status on her application for the Provider Relief Program,AskAboutStatus
+I'd like to know the status of my Late Reporting Request Form for RP2,AskAboutStatus
+I want to know the status of their loan repayment Program application,AskAboutStatus
+Caller wanted to know the status of a claim,AskAboutStatus
+User needs to know a status of a claim,AskAboutStatus
+Caller wants to know the status of ticket# 01335774,AskAboutStatus
+Received an email and wants to know the status of a particular submission,AskAboutStatus
+what is the status of their application,AskAboutStatus
+they wanted to know the status of her PRF fund,AskAboutStatus
+I'd like to apply for the Phase 4 provider relief fund and want to know the status,AskAboutStatus
+new account for Amy Adams,AskAboutStatus
+I want to know the status of her grant application,AskAboutStatus
+I'd like to find out the status of the Provider Relief grant,AskAboutStatus
+I'd like to let me know the status of this,AskAboutStatus
+what is the status of our application,AskAboutStatus
+claim status of four patients,AskAboutStatus
+the claims status of their Civid-19 uninsured claims,AskAboutStatus
+I want to know the status of their medical claim for pap-smear test,AskAboutStatus
+Received call from Nathan who wanted assistance with removing a user from a grant-,RemoveUser
+I need help removing a user from the organization,RemoveUser
+the grantee was attempting to remove a user from the email notifications,RemoveUser
+how can I remove a user from the organization,RemoveUser
+removing a user from the organiation,RemoveUser
+removing a user as a communication contact,RemoveUser
+I need to get assistance with removing a user from their grant and organization,RemoveUser
+Caller needs to remove user from the Grant in EHB,RemoveUser
+I want to remove a user in the EHB and add a new user,RemoveUser
+I need to get a user removed from this grant T16MC29832,RemoveUser
+removing a user from receiving NOA email notifications,RemoveUser
+I need assistance removing another user from the organization,RemoveUser
+I'd like to remove an old user from the RSR access,RemoveUser
+I need assistance with removing two users within EHB,RemoveUser
+trying to remove users from our grant in the EHB,RemoveUser
+Some users left the organization and some accounts need to be removed from their organization,RemoveUser
+how to delete the users,RemoveUser
+Users account is disabled,RemoveUser
+I'm locked out of his account,RemoveUser
+I need help getting access,GetAccess
+Can I get access to this grant,GetAccess
+I'd like to get access to the grant because she needed to,GetAccess
+I'd like to get access to these reports,GetAccess
+I want to get access to the original budget,GetAccess
+I need to get access to this grant H9AHA36958,GetAccess
+I want to get access to this grant for Esther Corpuz,GetAccess
+I need to get access to this grant for a PA for PD change,GetAccess
+I'd like to get access to grant G01RH42539,GetAccess
+I'd like to get access to grant H98HA36912,GetAccess
+I'd like to get access to a Grant in the EHB,GetAccess
+I need to get access to this dataset from 2001-2019,GetAccess
+I'd like to get access to our capital grant in the EHBs,GetAccess
+I want to get access to application for HRSA-21-114,GetAccess
+I want to get access to EHB  for one of our grantee,GetAccess
+I'd like to get access to another manager within our department,GetAccess
+User needed assistance with getting access to grant h7cha37121,GetAccess
+Can I get access to the application for the supplemental funding,GetAccess
+I need to get access before my end-of-the-month reports are due,GetAccess
+what steps I need to take to receive access,GetAccess
+Would like an update for ticket number01199643,GetUpdate
+user needed an update,GetUpdate
+Can I get an update regarding this,GetUpdate
+I'd like to get an update on the previous ticket 01272343,GetUpdate
+Can I get an update for ticket 01215295,GetUpdate
+"I need to get an update from Adelante Healthcare, Inc",GetUpdate
+I need to provide an update on this ticket,GetUpdate
+Can I get an update for a patient regarding their Covid-19 uninsured claim,GetUpdate
+update regarding his CARES Provider Relief application,GetUpdate
+I would like to get an update on Covid-19 uninsured claims,GetUpdate
+update on her ticket 01111483,GetUpdate
+update for ticket 01209864,GetUpdate
+update be provided for the below ticket,GetUpdate
+update on the situation,GetUpdate
+the user wanted an update regarding his loan application,GetUpdate
+update on his ticket 1071755,GetUpdate
+update on ticket 01194910,GetUpdate
+Unable to login,ReportUnableToLogin
+I am unable to login,ReportUnableToLogin
+User is unable to login,ReportUnableToLogin
+I am unable to login his EHB account,ReportUnableToLogin
+I am unable to login in his EHB account,ReportUnableToLogin
+I am unable to login into his EHB account,ReportUnableToLogin
+I am unable to login into their EHB account,ReportUnableToLogin
+service provider is unable to login into their EHB account,ReportUnableToLogin
+I am unable to login her EHB account,ReportUnableToLogin
+Customer is unable to login to EHB,ReportUnableToLogin
+I cannot login,ReportUnableToLogin
+Unable to login beyond the dashboard,ReportUnableToLogin
+I am unable to login his AMS account,ReportUnableToLogin
+I am unable to login because my account was disabled,ReportUnableToLogin
+"I have been unable to login the EHB since Friday, the 12th",ReportUnableToLogin
+I would like a new password,ReportUnableToLogin
+I AM UNABLE TO LOGIN TO UPLOAD MY RSR REPORT,ReportUnableToLogin
+Grantee is unable to login into the EHB account,ReportUnableToLogin
+I am unable to login to her internal account because the account is disabled,ReportUnableToLogin
+my account is being used and will not let me login,ReportUnableToLogin
+I need to create an EHB account,CreateEHBAccount
+I need assistance with creating an EHB account,CreateEHBAccount
+Caller needed assistance with Creating EHB account,CreateEHBAccount
+I'd like to create a EHB account,CreateEHBAccount
+I'd like to create an EHB account for new employee,CreateEHBAccount
+I'd like to register for an EHB account,CreateEHBAccount
+I would like to create an EHB account for grantee,CreateEHBAccount
+I'd like to create an EHB account for Novant Health,CreateEHBAccount
+Can I create an EHB account for our RHCVC grant,CreateEHBAccount
+trying to set up an ehb account,CreateEHBAccount
+the grantee is experiencing an issue creating an EHB account,CreateEHBAccount
+I would like to create an EHB account and create Prior approval for project director change,CreateEHBAccount
+I am attempting to create an EHB account using the email address: tvandyk@llu.edu,CreateEHBAccount
+I need to create an EHB account for the Grant's listed PD,CreateEHBAccount
+I would like to create an EHB account for her new organization,CreateEHBAccount
+having issues creating an ehb account using her email address,CreateEHBAccount
+I'd like to register on the EHB,CreateEHBAccount
+I have been trying to register for the EHB,CreateEHBAccount
+trying to register with the EHB but they are GUID,CreateEHBAccount
+I'd like to set up an EHB account for a new grant award,CreateEHBAccount
+I want to know if they qualified to distribute the testing kits,ApplyForProgram
+They would like to know if they are coved under OSHA,ApplyForProgram
+they are supposed to submit that report,ApplyForProgram
+I want to know if they are eligible for the vaccine program,ApplyForProgram
+I want to know if they were working on the provider report correctly,ApplyForProgram
+they have to do a CIS,ApplyForProgram
+Can I apply for the program,ApplyForProgram
+they qualify for an FTCA application,ApplyForProgram
+I need to apply on 06/24/2021 and want to know if they were awarded,ApplyForProgram
+User wanted to know if they needed to certify their RSR yet,ApplyForProgram
+how she can determine if they participated in the program,ApplyForProgram
+I need to complete additional parts for the RSR,ApplyForProgram
+I have approval to order,ApplyForProgram
+can they bill these uninsured patients for services,ApplyForProgram
+can they have multiple AO's in the organization,ApplyForProgram
+can they re-upload a supporting document to the application,ApplyForProgram
+they had a helpline for the Provider Relief Fund,ApplyForProgram
+can they submit the supplemental grant past its due date,ApplyForProgram
+can we have DMI advise as to whether they can resolve the attached GS error,ApplyForProgram
+can they become a facility for the homeless,ApplyForProgram
+I need to add a user to their organization,AddUser
+I would like to add a user to the ehb,AddUser
+I'd like to add a user to my organization's FTCA redeeming application,AddUser
+I'd like to add an User to the EHB,AddUser
+I would like to add a new user,AddUser
+how to add another user to EHB,AddUser
+I want to add another user to add another user in EHB,AddUser
+I'd like to add another user to the NOA email list,AddUser
+I need to add a new user to the grant submission portal,AddUser
+I would like to add users to her Organization in EHB,AddUser
+I would like to add new users to profile,AddUser
+Can I add another user who does not have a account,AddUser
+I'd like to add user to organization and removing old user from organization,AddUser
+I'd like to add a user onto the EHB,AddUser
+I need to add a user to the ARP application,AddUser
+I want to add another user to the grant as interim PD,AddUser
+I need help with registering a grant to portfolio,RegisterGrant
+User calling needing assistance with registering this grant as PD,RegisterGrant
+I need assistance with registering for grant,RegisterGrant
+User wanted assistance registering to a grant,RegisterGrant
+User needed help registering to a grant as the PD,RegisterGrant
+User needed help registering to a grant as the project director,RegisterGrant
+the grantee needs assistance with registering the grant to their portfolio,RegisterGrant
+I need to register a grant to portfolio,RegisterGrant
+is the new PD and needs to register grant to portfolio,RegisterGrant
+having trouble registering a grant to portfolio,RegisterGrant
+I need to register grants to portfolio,RegisterGrant
+Shawntia called in needed assistance with registering for grant h8fcs41200,RegisterGrant
+I can register our new grant,RegisterGrant
+Her name on the NoA is incorrect and cannot register grant,RegisterGrant
+I want to register for a grant and changing to the Project Director,RegisterGrant
+I need a register grant and a PA for PD change,RegisterGrant
+I am trying to request prior approval,SubmitPriorApprovalRequest
+Can I create a prior approval,SubmitPriorApprovalRequest
+User needed help submitting a prior approval for a pd change,SubmitPriorApprovalRequest
+User needed help doing a prior approval for a PD change,SubmitPriorApprovalRequest
+I need to create a prior approval for an inactive grant,SubmitPriorApprovalRequest
+I am working on submitting a Prior Approval for a change of PD,SubmitPriorApprovalRequest
+how to do a prior approval request for PD,SubmitPriorApprovalRequest
+I submitted a prior approval but it still hasnt been approved,SubmitPriorApprovalRequest
+She needs to submit Prior Approval Request for Project Director Change,SubmitPriorApprovalRequest
+I need to access a prior approval for Extension without Funds,SubmitPriorApprovalRequest
+trying to do a prior approval request for an FFR,SubmitPriorApprovalRequest
+there is a discrepancy in the Prior Approval Request status for U4CMC32315,SubmitPriorApprovalRequest
+I'd like to get prior approval to draw funds,SubmitPriorApprovalRequest
+I need to create prior approval requests,SubmitPriorApprovalRequest
+Prior Approval No Cost Extension for grant MO1HP31334,SubmitPriorApprovalRequest
+Marla called in needed some assistance with submitting Prior Approval request for PD change,SubmitPriorApprovalRequest
+asked me to submit a prior approval request on this grant,SubmitPriorApprovalRequest
+I am trying to submit a Prior Approval Carryover Request,SubmitPriorApprovalRequest
+Grantee is unable to submit a prior approval request for a Carryover of Unobligated Balances,SubmitPriorApprovalRequest
+Would like to submit prior approval for rebudget for an expired grant,SubmitPriorApprovalRequest
+how can we access the grant,AccessGrant
+User wanted to know how to access the grant,AccessGrant
+how do I can obtain access to this grant,AccessGrant
+access to the grant as the AO,AccessGrant
+access to all the grants at Trillium Health,AccessGrant
+access to this grant that is no longer active,AccessGrant
+I'd like to access a grant I submitted in 2016,AccessGrant
+access to a grant but their PD does not see it,AccessGrant
+access to this grant information,AccessGrant
+Can I get access to the above grant,AccessGrant
+I want to update her  Privilege's to access a grant application,AccessGrant
+could not locate the manage peer access link to access the grant application,AccessGrant
+access to this grant but PD has not yet registered,AccessGrant
+I need to get a grantee is unable to access grant,AccessGrant
+Can I help accessing their grant,AccessGrant
+I need help accessing the grant we received,AccessGrant
+I need access to the grant but their PD is no longer with the organization,AccessGrant
+they are still unable to access the grants in the portfolio,AccessGrant
+I'd like to access the grant or the submissions,AccessGrant
+I need assistance accessing these grants,AccessGrant
+Please extend the due date to 8/20/21,ExtendDueDate
+Please extend the due date for Alaska Dept,ExtendDueDate
+I want to extend the due date for the below FFR to 3/31/2021,ExtendDueDate
+I need to extend the due date for the below FFR to 11/5/2021,ExtendDueDate
+Please  extend the due date to 2/28/2022 for an ?Other Submission - RFI,ExtendDueDate
+I need to extend the due date for the below FFR to 11/30/2021,ExtendDueDate
+I would like to let me know next steps to extend the due date to 2/15/22,ExtendDueDate
+please extend the due date for,ExtendDueDate
+"FFR00126346/1 to reflect May 31st, 2022",ExtendDueDate
+please extend the due date for the non-competing performance report to 07/30/2021,ExtendDueDate
+I need to extend the due date for the FFR noted below to 12/31/2021,ExtendDueDate
+Can I extend the due date of this report from 9/29/2021 to 10/27/2021,ExtendDueDate
+Can you extend the due date for the new performance report (Tracking/Task #DG00004939) until 10/29/21,ExtendDueDate
+please extend the due date for FFR00104317/1,ExtendDueDate
+to reflect 4/30/2022,ExtendDueDate
+I need to extend the due date of FFR00100874/1 for document number 17H80CS28345,ExtendDueDate
+I need to extend the due dates for the two FFR's shown below,ExtendDueDate
+"Please extend the due dates to April 15, 2021 for the following tracking numbers",ExtendDueDate
+I would like to extend the due date for the report/submission named Thalassemia  Program Final Report,ExtendDueDate
+How do I change my password,ChangePassword
+I would like to change my password,ChangePassword
+I have been trying to change my password,ChangePassword
+I would like to change my password due to expiration today,ChangePassword
+I would like to change my password without knowing my current password,ChangePassword
+I can't log in to change my password,ChangePassword
+I want to change my password but couldn't do due the reason,ChangePassword
+will not let me change my password,ChangePassword
+Website won't allow me to change my password,ChangePassword
+I need to change my password before it expires,ChangePassword
+"Whenever i try to change my password, it says my old password doesnt match",ChangePassword
+I want to change my password and the new passwords don't work,ChangePassword
+I want to change my password by today,ChangePassword
+Can I change my password but I cannot remember my old password,ChangePassword
+"I am trying to change my password, but it is not recognizing the old password",ChangePassword
+I need to get into my account to change my password,ChangePassword
+I received notice that I needed to change my password,ChangePassword
+i don't remember my answer to the question to change my password,ChangePassword
+I would like to change my password but I still can't access the EHB system,ChangePassword
+I want to change my password so I can begin my application,ChangePassword
+I want to know if she qualifies for a loan repayment forgiveness program,GetLoan
+I had questions regarding Scholarships for Disadvantaged (SDS) Program,GetLoan
+I need to get another letter with the information,GetLoan
+I would like to get more information about the trainings,GetLoan
+Can I get a loan for home health care,GetLoan
+I want to get another extension after one has expired,GetLoan
+I want to know if she is still scheduled for a site visit in 2022,GetLoan
+I want to know if she is eligible for Optimizing Virtual Care,GetLoan
+I may have missed the opportunity to apply,GetLoan
+what is she being told about what she is being told,GetLoan
+can she just activate the previous deactivated account,GetLoan
+I have reached the right number for COVID-19 Provider relief,GetLoan
+I want an overview and confirm she is in review status,GetLoan
+can she use the money from H8F grant,GetLoan
+do a allocations report,GetLoan
+I want to know if she qualified for the provider relief funding,GetLoan
+I have an issue with the change in scope,GetLoan
+change who receives notifications related to the Grant,GetLoan
+Could you assist me to access my account,AccessAccount
+I want to help me access my account,AccessAccount
+how to access my account,AccessAccount
+how I would be able to access my account,AccessAccount
+user is unable to access account,AccessAccount
+I am unable to access my account,AccessAccount
+I am unable to access my account because the security question answer isn't working,AccessAccount
+she has not received an email confirmation that she can now access the account,AccessAccount
+I still cannot access my account,AccessAccount
+I'd like to get an access to the account,AccessAccount
+can't access my account,AccessAccount
+access to my account and grant associated with this account,AccessAccount
+my account is locked and I cannot access it,AccessAccount
+I am unable to gain access to my account after changing the password twice,AccessAccount
+I have been having trouble accessing my account in EHB,AccessAccount
+can not access my acct current pw not working,AccessAccount
+"Even if you do NOT want to buy cryptocurrency, do you know that the world's biggest exchange Binance has a referral program",DoNotWantToBuyCryptocurrency
+is our system superior,AskAboutSystem

@@ -1,0 +1,377 @@
+{
+    "User needed help creating an account": [
+        {
+            "class": "CreateAccount",
+            "score": 0.7366121411323547
+        },
+        {
+            "class": "CreateEHBAccount",
+            "score": 0.056484878063201904
+        },
+        {
+            "class": "AccessAccount",
+            "score": 0.021102936938405037
+        },
+        {
+            "class": "SubmitPriorApprovalRequest",
+            "score": 0.016780104488134384
+        },
+        {
+            "class": "FileComplaint",
+            "score": 0.013472743332386017
+        }
+    ],
+    "User calling needing assistance with their RSR report, user stated they need assistance with errors they see.": "Unidentified Intent",
+    "Amy called in needed assistance with registering for a grant as pd": [
+        {
+            "class": "ApplyForGrant",
+            "score": 0.46003058552742004
+        },
+        {
+            "class": "RegisterGrant",
+            "score": 0.2344183325767517
+        },
+        {
+            "class": "AddGrant",
+            "score": 0.050375036895275116
+        },
+        {
+            "class": "RegisterAsPD",
+            "score": 0.03516969084739685
+        },
+        {
+            "class": "RemoveUser",
+            "score": 0.02000224031507969
+        }
+    ],
+    "User needed their session terminated": "Unidentified Intent",
+    "User calling trying to access the RSR report but not able to see it.": "Unidentified Intent",
+    "Grantee is unable to log into account using email so he made a backup with another email. \nGrantee was having trouble finding how to find the organization associated with the grant number provided.": "Unidentified Intent",
+    "the user was working on a grant app in grants.gov and requested assistance after submitting a ticket request as well": "Unidentified Intent",
+    "caller called in needed to speak to some one regarding the cares act provider relief": [
+        {
+            "class": "SpeakWithSomeone",
+            "score": 0.4352594316005707
+        },
+        {
+            "class": "RemoveUser",
+            "score": 0.07907567918300629
+        },
+        {
+            "class": "RegisterAsPD",
+            "score": 0.05582012981176376
+        },
+        {
+            "class": "CallForInformation",
+            "score": 0.03227802738547325
+        },
+        {
+            "class": "ApplyForProgram",
+            "score": 0.029750864952802658
+        }
+    ],
+    "The caller called because his organization runs a program for covid testing but for the uninsured. The caller stated that they haven't been paid and they need to speak with someone from HRSA for further assistance.": "Unidentified Intent",
+    "Caller stated that she was still having issues with the budget period showing up in her PA.  She stated that she had her GMS on the line to talk with us but then she stated he was not available to speak to tier 2.": "Unidentified Intent",
+    "The called to speak with Turk Hassan from the OIT helpdesk regarding  issues with the computer": [
+        {
+            "class": "SpeakWithSomeone",
+            "score": 0.44728517532348633
+        },
+        {
+            "class": "GiveAccess",
+            "score": 0.07122334837913513
+        },
+        {
+            "class": "CreateEHBAccount",
+            "score": 0.044659361243247986
+        },
+        {
+            "class": "RegisterAsPD",
+            "score": 0.0367346927523613
+        },
+        {
+            "class": "RemoveUser",
+            "score": 0.03350740298628807
+        }
+    ],
+    "Please call me . I have a couple questions regarding reporting that requires speaking to someone. thank you!": "Unidentified Intent",
+    "User was able to try it again through the phone and was able to get access": "Unidentified Intent",
+    "User needed to know how to get access to this grant": [
+        {
+            "class": "GetAccess",
+            "score": 0.6587185859680176
+        },
+        {
+            "class": "AccessGrant",
+            "score": 0.12072990089654922
+        },
+        {
+            "class": "ApplyForGrant",
+            "score": 0.03712139651179314
+        },
+        {
+            "class": "GiveAccess",
+            "score": 0.022442156448960304
+        },
+        {
+            "class": "AddUser",
+            "score": 0.014383647590875626
+        }
+    ],
+    "the caller needs to get access to a grant application and they received notification to access the application but it did not work": "Unidentified Intent",
+    "User calling for assistance with how to get access to their NCC Report for grant H8HCS44984": [
+        {
+            "class": "GetAccess",
+            "score": 0.4042462706565857
+        },
+        {
+            "class": "AccessAccount",
+            "score": 0.15604476630687714
+        },
+        {
+            "class": "AccessGrant",
+            "score": 0.09237416088581085
+        },
+        {
+            "class": "CallForAssistance",
+            "score": 0.04575935751199722
+        },
+        {
+            "class": "CallForInformation",
+            "score": 0.032356295734643936
+        }
+    ],
+    "User called for assistance with how to get access to this grant to submit their Progress report.": "Unidentified Intent",
+    "User called wanting to know how a user can get access to their grants and register as BO": "Unidentified Intent",
+    "The user is trying to get access to the land grant in the EHB.": [
+        {
+            "class": "GetAccess",
+            "score": 0.4074760377407074
+        },
+        {
+            "class": "AccessGrant",
+            "score": 0.1981448531150818
+        },
+        {
+            "class": "GiveAccess",
+            "score": 0.044202808290719986
+        },
+        {
+            "class": "AddGrant",
+            "score": 0.03836698457598686
+        },
+        {
+            "class": "LogIntoEHB",
+            "score": 0.022382881492376328
+        }
+    ],
+    "User needed help locating an inactive grant": [
+        {
+            "class": "ApplyForGrant",
+            "score": 0.5609986186027527
+        },
+        {
+            "class": "RegisterGrant",
+            "score": 0.08514675498008728
+        },
+        {
+            "class": "AddGrant",
+            "score": 0.05924741551280022
+        },
+        {
+            "class": "GiveAccess",
+            "score": 0.05221549794077873
+        },
+        {
+            "class": "AccessGrant",
+            "score": 0.017971906810998917
+        }
+    ],
+    "User is looking to find a grant (H80CS29018) in the EHB but is unable to find it and also a report with tracking #00309849. Additionally, the grantee will like to speak to the Payment Management System for assistance with some questions about the portal.": "Unidentified Intent",
+    "Received call from Lin who needed assistance with accessing her EHB account.": "Unidentified Intent",
+    "User called to have their current EHB login terminated.": "Unidentified Intent",
+    "Grantee states is calling regarding COVID-19 insurance.  She went to St. Joseph hospital and she set up a payment plan for Payment Services.  Her account was pulled up for review.  She has been calling since September last year, she still haven't received an answer.": "Unidentified Intent",
+    "Caller stating that she is getting some error and she is not sure how to correct the contents that she already out n the report.": "Unidentified Intent",
+    "Caller needed assistance with information for upcoming funds": [
+        {
+            "class": "CallForAssistance",
+            "score": 0.49317529797554016
+        },
+        {
+            "class": "CallForInformation",
+            "score": 0.0852779969573021
+        },
+        {
+            "class": "SubmitPriorApprovalRequest",
+            "score": 0.07851356267929077
+        },
+        {
+            "class": "GetUpdate",
+            "score": 0.038383737206459045
+        },
+        {
+            "class": "GetAccess",
+            "score": 0.03293389081954956
+        }
+    ],
+    "Grantee needed assistance with enabling account and reset password": "Unidentified Intent",
+    "User calling calling regarding the Provider Relief Fund/ uninsured Claims": [
+        {
+            "class": "CallForInformation",
+            "score": 0.6163965463638306
+        },
+        {
+            "class": "AskAboutLoanRepaymentProgram",
+            "score": 0.05569671839475632
+        },
+        {
+            "class": "SubmitPriorApprovalRequest",
+            "score": 0.04953796789050102
+        },
+        {
+            "class": "CallForAssistance",
+            "score": 0.048906609416007996
+        },
+        {
+            "class": "ApplyForProgram",
+            "score": 0.02947373501956463
+        }
+    ],
+    "The user would like to have HRSA HR contact information. He stated he has an officer letter and he has questions regarding the onboarding process and his background investigation": "Unidentified Intent",
+    "the user wanted to speak with someone regarding loan repayment": [
+        {
+            "class": "SpeakWithSomeone",
+            "score": 0.7633965611457825
+        },
+        {
+            "class": "RemoveUser",
+            "score": 0.03133691847324371
+        },
+        {
+            "class": "CreateEHBAccount",
+            "score": 0.021140748634934425
+        },
+        {
+            "class": "RegisterAsPD",
+            "score": 0.01796068251132965
+        },
+        {
+            "class": "GiveAccess",
+            "score": 0.01784067042171955
+        }
+    ],
+    "error message when saving data that was inputed. Jira Reference Id :EHBSOPS-51305": "Unidentified Intent",
+    "the caller applied for the nurse corp scholarship and was checking on an update": "Unidentified Intent",
+    "the user requested their session be terminated": "Unidentified Intent",
+    "the user required assistance with the provider relief fund application": [
+        {
+            "class": "CallForInformation",
+            "score": 0.5715389251708984
+        },
+        {
+            "class": "CallForAssistance",
+            "score": 0.14196522533893585
+        },
+        {
+            "class": "AskAboutLoanRepaymentProgram",
+            "score": 0.042943838983774185
+        },
+        {
+            "class": "GetUpdate",
+            "score": 0.03483475372195244
+        },
+        {
+            "class": "ApplyForProgram",
+            "score": 0.022876037284731865
+        }
+    ],
+    "User calling regarding the Loan Repayment Program": "Unidentified Intent",
+    "Received call from Leon who needed assistance with accessing his EHB account.": "Unidentified Intent",
+    "The user is calling about a LAL. He was unable to get to the LAL survey (By weekly covid response survey last night.": "Unidentified Intent",
+    "Grantee needs assistance with their VPOP. In their HRSA Force account, all their sites populate. When they go to their VPOP account certain sites do not populate.": "Unidentified Intent",
+    "For grant H8FCS41401, please administratively close submission tracking number 00295992": [
+        {
+            "class": "ExtendDueDate",
+            "score": 0.4498751163482666
+        },
+        {
+            "class": "ExtendDeadline\t",
+            "score": 0.12876692414283752
+        },
+        {
+            "class": "GetUpdate",
+            "score": 0.09902237355709076
+        },
+        {
+            "class": "GetAccess",
+            "score": 0.04751838743686676
+        },
+        {
+            "class": "SubmitPriorApprovalRequest",
+            "score": 0.02750849723815918
+        }
+    ],
+    "The user stated she is having issues login into her EHB account. She is getting an error message that states, Error : Error occurred during login. \n\nThe user  usually login using her PIV Card.\n\nHHS ID: 2002860684": "Unidentified Intent",
+    "I haven't been on the EHB for awhile and can't remember my info.  Need to get in to take care of some business. thanks.": "Unidentified Intent",
+    "Caller called in needed assistance with applying for grant for Nurse corps": "Unidentified Intent",
+    "The caller is new to the EHB and she wanted to make sure that she didn't have any task that was due that she wasn't aware of.": "Unidentified Intent",
+    "Caller needed assistance with locating onsite visit": "Unidentified Intent",
+    "I changed my password 2 weeks ago but the system will not accept my newest password therefore, I cannot access my acct.  Please assist.  Thank you": "Unidentified Intent",
+    "RE: EHB tracking # 191137 for Mountain Valleys Health Centers, I cannot get access to the app.  The PD is not able to add me, the Edit menu does not give the opportunity to add users.  Please advise how I get access to the app.  Thanks.": "Unidentified Intent",
+    "A staff person has requested access to the grant folder, but I can't find the request in the EHB for approval.": "Unidentified Intent",
+    "Breyanna called to get assistance with resetting their EHB password.": "Unidentified Intent",
+    "User calling for assistance with how to create their EHB account. They are getting a error that the email already exists": "Unidentified Intent",
+    "User needed assistance resetting their password because they were unable to log in": "Unidentified Intent",
+    "User calling for information on how to access their expenditures report that has been change requested": "Unidentified Intent",
+    "The caller needed access to grant H80CS00594 and to register as PD for this grant.": "Unidentified Intent",
+    "User called regarding claims from the Provider Relief Fund": [
+        {
+            "class": "CallForInformation",
+            "score": 0.47124210000038147
+        },
+        {
+            "class": "AskAboutLoanRepaymentProgram",
+            "score": 0.06882056593894958
+        },
+        {
+            "class": "ApplyForProgram",
+            "score": 0.06274039298295975
+        },
+        {
+            "class": "FileComplaint",
+            "score": 0.061408914625644684
+        },
+        {
+            "class": "SubmitPriorApprovalRequest",
+            "score": 0.04370222985744476
+        }
+    ],
+    "User called wanting information on FQHC's and trying to find information on them in their state, but stated to find each one you needed a zip code on the website, so user wanted to know if there was a list\nEmail is ccervantes@dentistry.ucla.edu": "Unidentified Intent",
+    "There was an unexpected error while processing your request. Please try again by refreshing the page or if the problem persists, please contact Call Center. \n\nReference Id: c27caa5f-aa53-48cc-afaa-bae06af81ab5. Jira Reference Id :EHBSOPS-46940": "Unidentified Intent",
+    "User called in stating they were trying to log in to EHB but get the error that the username is not recognized": [
+        {
+            "class": "LogIntoEHB",
+            "score": 0.4967406988143921
+        },
+        {
+            "class": "RemoveUser",
+            "score": 0.07607833296060562
+        },
+        {
+            "class": "ChangePassword",
+            "score": 0.07272645086050034
+        },
+        {
+            "class": "ExtendDeadline\t",
+            "score": 0.03618251904845238
+        },
+        {
+            "class": "RegisterAsPD",
+            "score": 0.025319209322333336
+        }
+    ],
+    "Caller wanted to know if this was the number to it hardware support": "Unidentified Intent",
+    "Nick called in needed assistance with accessing a previous submitted  Performance Report.": "Unidentified Intent",
+    "Can you please reset my password? For some reason it never recognizes my password and I have wait 30 minutes and then create a new password to access my account": "Unidentified Intent",
+    "User calling to get information on hrsa-21-093 application they applied but got errors, User wanted assistance on what those errors were.": "Unidentified Intent"
+}

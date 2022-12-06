@@ -1,0 +1,4 @@
+# Login to console
+# run export KUBECONFIG=
+# kubectl -n modzy get pods (look for pod name:model-batch-vwfsqfxcej-1-0-0-855c55f9bb-5h25w)
+# kubectl -n modzy logs model-batch-vwfsqfxcej-1-0-0-855c55f9bb-5h25w -c model-container

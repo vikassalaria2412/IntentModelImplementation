@@ -1,0 +1,94 @@
+text,intent
+how they can get 100% accurate data,GiveAccess
+I need to create an account in the EHB,CreateAccount
+We need to request an extension,RequestExtension
+Can I make a complaint on a facility,FileComplaint
+can she just activate the previous deactivated account,GetLoan
+can they become a facility for the homeless,ApplyForProgram
+how they can submit a new budget,GiveAccess
+I need to find a health center that offered chiropractic services,FindHealthCenter
+I need to request an extension on my grant,RequestExtension
+how can I obtain a grant,ApplyForGrant
+Caller in zip code 37601 is trying to locate a Health Center,FindHealthCenter
+trying to get access to a grant as a consultant,ApplyForGrant
+I need assistance with registration code for RSR,CallForAssistance
+User called needing info on the Provider Relief Fund,CallForInformation
+I would like to request an extension of two weeks,RequestExtension
+I AM UNABLE TO LOGIN TO UPLOAD MY RSR REPORT,ReportUnableToLogin
+I'd like to check the status of an uninsured COVID-19 Claim,CheckStatus
+"Whenever i try to change my password, it says my old password doesnt match",ChangePassword
+Unlock account and reset needed,UnlockAccount
+Can I get their EHB account unlocked,ReportEHBAccountUnlocked
+I'd like to check the status of his phase 4 funding,CheckStatus
+I am unable to login into their EHB account,ReportUnableToLogin
+Please have DMI extend the deadline on the following FFR to 10/30/2021: FFR00105694/1; 16C8DCS29687,ExtendDeadline	
+Can I add a grant to her portfolio,AddGrant
+Caller needs to remove user from the Grant in EHB,RemoveUser
+trying to find a health center in New Mexico,FindHealthCenter
+I need assistance with a phone number for Find a Health Center,FindHealthCenter
+I'd like to access the grant or the submissions,AccessGrant
+how she can determine if they participated in the program,ApplyForProgram
+I'd like to make changes to three due dates in EHB for P16,MakeChanges
+trying to log into EHB and needing a password reset,LogIntoEHB
+User wanted assistance registering to a grant,RegisterGrant
+I'd like to create a EHB account,CreateEHBAccount
+I cannot log into EHB,LogIntoEHB
+how can I remove a user from the organization,RemoveUser
+I have an issue with the change in scope,GetLoan
+I want to know if they were working on the provider report correctly,ApplyForProgram
+how they can file a complaint,FileComplaint
+I would like to check the status of a claim for the Provider Relief Fund,CheckStatus
+I need to make changes to a report she submitted today,MakeChanges
+I'd like to add user to organization and removing old user from organization,AddUser
+I want to register to their grant as PD,RegisterAsPD
+User needed help registering to a grant as the PD,RegisterGrant
+to reflect 4/30/2022,ExtendDueDate
+the Provider Relief Fund is still being disbursed,CallForInformation
+Would like an update for ticket number01199643,GetUpdate
+I'd like to make changes to a submission name,MakeChanges
+Caller wants to know the status of ticket# 01335774,AskAboutStatus
+Caller wanted to know the status of a claim,AskAboutStatus
+I am unable to login to her internal account because the account is disabled,ReportUnableToLogin
+I need her password reset,ResetPassword
+I want to apply for a grant that he wants to apply for,ApplyForGrant
+I want to get access to EHB  for one of our grantee,GetAccess
+I am unable to login into his EHB account,ReportUnableToLogin
+I'd like to get access to a Grant in the EHB,GetAccess
+how to file a complaint for the RW program,FileComplaint
+caller wanted to know about the loan repayment program,AskAboutLoanRepaymentProgram
+I want to know the status of their medical claim for pap-smear test,AskAboutStatus
+I want to get access to the original budget,GetAccess
+I want to register for a grant and changing to the Project Director,RegisterGrant
+I am unable to login because my account was disabled,ReportUnableToLogin
+how they can update the dates,GiveAccess
+we would like us to unlock the account,UnlockAccount
+I would like to check the status of her ticket 01266337,CheckStatus
+User is unable to log into the EHB,LogIntoEHB
+I have been trying to register for the EHB,CreateEHBAccount
+I would like to change my password without knowing my current password,ChangePassword
+Marla called in needed some assistance with submitting Prior Approval request for PD change,SubmitPriorApprovalRequest
+She also isn't sure how to request an extension,RequestExtension
+I'd like to get the account locked and want to unlock account,UnlockAccount
+new account for Amy Adams,AskAboutStatus
+Shawntia called in needed assistance with registering for grant h8fcs41200,RegisterGrant
+I want to request an extension for the report,RequestExtension
+I am trying to create an account for myself in,CreateAccount
+I need to change my password before it expires,ChangePassword
+I need to provide an update on this ticket,GetUpdate
+I need to speak with someone regarding region 10,SpeakWithSomeone
+I need to get a user removed from this grant T16MC29832,RemoveUser
+I need to check the status of her FTCA  application,CheckStatus
+She stated she would like to file a complaint,FileComplaint
+I want to add a health center to hrsa find a health center,FindHealthCenter
+I want to make changes to Final Performance/Closeout Report and it's late,MakeChanges
+can't access my account,AccessAccount
+I would like to change my password,ChangePassword
+I'd like to make changes to their NCC report,MakeChanges
+is the new PD and needs to register grant to portfolio,RegisterGrant
+can we have DMI advise as to whether they can resolve the attached GS error,ApplyForProgram
+I have been trying to change my password,ChangePassword
+User needed help doing a prior approval for a PD change,SubmitPriorApprovalRequest
+User calling to check claims status,CheckStatus
+I want to know if she qualified for the provider relief funding,GetLoan
+I need assistance accessing these grants,AccessGrant
+I need assistance with the Provider Relief application,CallForAssistance

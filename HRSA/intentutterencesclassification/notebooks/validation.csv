@@ -1,0 +1,11 @@
+text,intent
+I would like to change my password,ChangePassword
+I'd like to make changes to their NCC report,MakeChanges
+is the new PD and needs to register grant to portfolio,RegisterGrant
+can we have DMI advise as to whether they can resolve the attached GS error,ApplyForProgram
+I have been trying to change my password,ChangePassword
+User needed help doing a prior approval for a PD change,SubmitPriorApprovalRequest
+User calling to check claims status,CheckStatus
+I want to know if she qualified for the provider relief funding,GetLoan
+I need assistance accessing these grants,AccessGrant
+I need assistance with the Provider Relief application,CallForAssistance

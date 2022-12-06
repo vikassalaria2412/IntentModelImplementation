@@ -1,0 +1,93 @@
+text,intent
+what is she being told about what she is being told,GetLoan
+I want to know if they qualified to distribute the testing kits,ApplyForProgram
+I want to know the status of their loan repayment Program application,AskAboutStatus
+how they can get an n95 mask,GiveAccess
+I need help removing a user from the organization,RemoveUser
+I want to add another user to the grant as interim PD,AddUser
+they had a helpline for the Provider Relief Fund,ApplyForProgram
+I want to make changes to their sites,MakeChanges
+how to delete the users,RemoveUser
+User needed help submitting a prior approval for a pd change,SubmitPriorApprovalRequest
+Received call from Nathan who wanted assistance with removing a user from a grant-,RemoveUser
+Would like to submit prior approval for rebudget for an expired grant,SubmitPriorApprovalRequest
+User needed assistance with getting access to grant h7cha37121,GetAccess
+Received call from Halford wanted to file an complaint on  Nurse Loan repayment applicant,FileComplaint
+how they can access the C8E grant application,GiveAccess
+information on the Provider Relief Fund,CallForInformation
+User calling regarding the Provider Relief Fund and them receiving 2 payments,CallForInformation
+I'd like to get access to grant H98HA36912,GetAccess
+how to do a prior approval request for PD,SubmitPriorApprovalRequest
+Can I file a complaint on a Health Organization,FileComplaint
+I'd like to know the status of my Late Reporting Request Form for RP2,AskAboutStatus
+trying to do a prior approval request for an FFR,SubmitPriorApprovalRequest
+trying to get access to a grant,ApplyForGrant
+User calling for assistance with the Provider Relief Fund/Reporting,CallForInformation
+I need to get a grantee is unable to access grant,AccessGrant
+I need to apply for a grant for single mothers,ApplyForGrant
+I would like to add users to her Organization in EHB,AddUser
+I'd like to get the SF-428 Form,GiveAccess
+I need assistance with changing Project director,CallForAssistance
+Please extend the deadline,ExtendDeadline	
+I need assistance with removing two users within EHB,RemoveUser
+I want to apply for a grant to cover my expenses,ApplyForGrant
+I'd like to help with a password reset,ResetPassword
+the grantee was attempting to remove a user from the email notifications,RemoveUser
+please extend the due date for,ExtendDueDate
+I need to get another letter with the information,GetLoan
+I want to create an account in the Electronic Handbooks,CreateAccount
+I need to add a new user to the grant submission portal,AddUser
+I need to add a grant to their portfolio and requesting a deadline extension,AddGrant
+I need to have his password reset,ResetPassword
+I would like to get an update on Covid-19 uninsured claims,GetUpdate
+I need to get into my account to change my password,ChangePassword
+I need to speak with someone regarding hospital designation,SpeakWithSomeone
+Please have DMI extend the deadline on the following FFR to 8/13/2021:,ExtendDeadline	
+Please extend the due date for Alaska Dept,ExtendDueDate
+I cannot login,ReportUnableToLogin
+Please  extend the due date to 2/28/2022 for an ?Other Submission - RFI,ExtendDueDate
+PD needed assistance with registering as PD for 2 grrantse4chp39883,RegisterAsPD
+I would like to find a health center that provides affordable healthcare,FindHealthCenter
+Can I speak with someone regarding the data,SpeakWithSomeone
+She wants to file a complaint against the facility for refusing her to be present,FileComplaint
+Received an email and wants to know the status of a particular submission,AskAboutStatus
+"FFR00126346/1 to reflect May 31st, 2022",ExtendDueDate
+I'd like to add a user onto the EHB,AddUser
+access to a grant but their PD does not see it,AccessGrant
+Can I get provider data for certain FQHC's,GiveAccess
+I am unable to log into the EHB,LogIntoEHB
+I want to request an extension on a submission,RequestExtension
+i don't remember my answer to the question to change my password,ChangePassword
+ X10MC33583,RegisterAsPD
+I need to get access before my end-of-the-month reports are due,GetAccess
+I would like to know the status on her application for the Provider Relief Program,AskAboutStatus
+I need to register a grant to portfolio,RegisterGrant
+I am having trouble adding a grant,AddGrant
+I'd like to create an EHB account for Novant Health,CreateEHBAccount
+I'd like to request an extension in EHB,RequestExtension
+trying to log into EHB,LogIntoEHB
+Can I add another user who does not have a account,AddUser
+I need assistance registering as PD for grant P06HA39524,RegisterAsPD
+I need a password reset for covid login,ResetPassword
+Please have DMI extend the deadline on the following FFR to 11/30/2021:,ExtendDeadline	
+where can they find a health center,FindHealthCenter
+Can you please reset my password,ResetPassword
+having issues creating an ehb account using her email address,CreateEHBAccount
+I would like to check the status of their loan repayment Program Application,CheckStatus
+I would like to know the status for the Phase 4 provider relief,AskAboutStatus
+Unlock account and reset password,UnlockAccount
+access to my account and grant associated with this account,AccessAccount
+I would like to make changes to CLC report,MakeChanges
+the user wanted an update regarding his loan application,GetUpdate
+I need assistance with Nurse Corp Loan Repayment,CallForAssistance
+I'd like to register for an EHB account,CreateEHBAccount
+I'd like to create an EHB account for new employee,CreateEHBAccount
+I would like to check the status of there application,CheckStatus
+I want to check the status of her provider relief funds,CheckStatus
+help with medical bills due to covid,CallForAssistance
+I am unable to log into my account to make changes,MakeChanges
+I'd like to speak with someone regarding provider relief phase 4,SpeakWithSomeone
+my account is locked and I cannot access it,AccessAccount
+I would like to add a new user,AddUser
+I was unable to log into the EHB,LogIntoEHB
+Can I get a password reset,ResetPassword
